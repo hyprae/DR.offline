@@ -30,6 +30,7 @@
 
 .holder_label {
 	padding: 3px;
+	width: 250px;
 }
 
 .holder_content {
@@ -37,7 +38,7 @@
 }
 
 .btn_dl {
-	min-width: 180px;
+	min-width: 110px;
 	height: 26px;
 	border: 0;
 	border-radius: 3px;
